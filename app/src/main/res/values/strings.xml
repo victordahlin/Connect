@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="facebook_app_id">1786434868246397</string>
+
+    <!-- Main -->
+    <string name="main_welcome">Welcome!\nLog in with your account</string>
+
+    <!-- Review strings -->
+    <string name="review_name">Namn</string>
+    <string name="review_email">Email</string>
+    <string name="review_school">School</string>
+    <string name="review_concentrations">Concentrations</string>
+    <string name="review_conditions_checkbox">I approve Ericsson terms and conditions</string>
+    <string name="review_conditions">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Aenean quis dignissim tellus, eu vehicula tortor. Aliquam efficitur vehicula lectus,
+        a gravida augue aliquet sit amet. Sed venenatis sapien quis venenatis dictum.
+        Maecenas dignissim orci sit amet mauris laoreet placerat. Suspendisse ac feugiat arcu.
+        Proin ac lacinia neque. Quisque purus justo, dignissim eget ullamcorper quis, dapibus quis
+        augue. Cras volutpat, orci quis imperdiet convallis, tortor tortor finibus sem,
+        at egestas lacus ante in metus.
+    </string>
+
+</resources>

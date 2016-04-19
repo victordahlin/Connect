@@ -1,5 +1,5 @@
 # Connect
 Ericsson Hackaton for collecting new employees
 
-![alt tag](https://github.com/victordahlin/Connect/blob/master/screenshot/login.png)
-![alt tag](https://github.com/victordahlin/Connect/blob/master/screenshot/getInfo.png)
+<img src="https://github.com/victordahlin/Connect/blob/master/screenshot/login.png" width="50%">
+<img src="https://github.com/victordahlin/Connect/blob/master/screenshot/getInfo.png" width="50%">
